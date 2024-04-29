@@ -1,3 +1,4 @@
+// if cp and sp of item is input determine profit or loss the seller has incurred //
 #include <stdio.h>
 
 int main() {
